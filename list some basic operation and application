@@ -1,0 +1,9 @@
+Git accomplishes this by recording the differences in files by a series of commits. This is how it works:
+
+Working Directory: You make changes to files in your project.
+Staging Area: You stage the changes (ready them for commit) using git add.
+Repository: When you commit with git commit, the changes are committed to the local repository with a unique commit number.
+Branching: You can branch in Git, so you don't disturb the main project if you want to fix something or implement a new feature.
+Merging: When changes are done, you merge branches into the main project.
+Remote Repository: You can push commits to a remote repository (like GitHub) and pull changes made by others.
+Git keeps track, manages, and collaborates on code by making all changes efficiently.
